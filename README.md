@@ -1,4 +1,19 @@
-## Hi there 👋
+## This is Aiman :)
+
+I read and code.
+
+```
+SE Senior @ FAST LHR
+```
+
+Areas of Interest
+- ML / NLP
+
+MERN Stack | Python | FAST API
+
+
+
+
 
 <!--
 **aiman04-gif/aiman04-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
