@@ -6,7 +6,7 @@ I read and code.
 SE Senior @ FAST LHR
 ```
 
-Areas of Interest
+Area of Interest
 - ML / NLP
 
 MERN Stack | Python | FAST API
